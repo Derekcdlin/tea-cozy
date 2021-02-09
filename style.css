@@ -49,6 +49,10 @@ nav span {
     padding: 20px 10px;
 }
 
+span a{
+    color: seashell;
+}
+
 span a:visited {
     color: seashell;
 }
